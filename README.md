@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS,NodeJs and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://14harish.github.io/Protfolio/](https://14harish.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://14harish.github.io/Portfolio/](https://14harish.github.io/Portfolio/)
 
 - 📫 How to reach me **cecsharishv24@gmail.com**
 
